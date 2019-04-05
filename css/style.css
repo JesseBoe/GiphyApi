@@ -1,0 +1,9 @@
+.topButton{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.thing{
+    width: fit-content;
+    display: inline-block;
+    margin: 10px;
+}
